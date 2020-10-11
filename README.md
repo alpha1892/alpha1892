@@ -9,6 +9,6 @@
 - ⚡ Spare Time: Would like to watch web series and play table tennis
 
 # Check points:
-[ ] Awaiting Certifications
-[ ] Design Patterns
-[ ] Data structures & Algorithms (Suggestion always welcome)
+- [ ] Awaiting Certifications
+- [ ] Design Patterns
+- [ ] Data structures & Algorithms (Suggestion always welcome)
